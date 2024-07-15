@@ -1,1 +1,1 @@
-Hai! Welcome to my repo!
+Hi! Welcome to my repo!
